@@ -65,4 +65,4 @@ Recently expanding into fullstack development, connecting low-level thinking wit
 ## Current project
 
 A fullstack web application for managing reservations at a local village hut.
-Built with Node.js and MySQL on the backend, handling bookings, availability, and user management end to end.
+Built with Node.js and MySQL on the backend, handling bookings, availability, and user management end to end. 
