@@ -10,3 +10,22 @@ I'm a software developer and student focused on building things that actually ge
 Recently expanding into fullstack development, connecting low-level thinking with real-world applications.
 
 ---
+
+## What I Focus On
+
+**Systems Programming (C / C++)**
+- Windows applications
+- Memory-level behavior
+- Performance & control
+
+**Practical Tools**
+- Automation
+- Utility software
+- Real-use-case driven projects
+
+- **Fullstack Development**
+- Previously PHP backends
+- Currently Node.js backends
+- MySQL databases
+
+---
