@@ -13,19 +13,11 @@ Recently expanding into fullstack development, connecting low-level thinking wit
 
 ## What I Focus On
 
-**Systems Programming (C / C++)**
 - Windows applications
-- Memory-level behavior
 - Performance & control
-
-**Practical Tools**
 - Automation
 - Utility software
-- Real-use-case driven projects
-
-**Fullstack Development**
-- Previously PHP backends
-- Currently Node.js backends
+- Node.js backends
 - MySQL databases
 
 ---
@@ -42,23 +34,6 @@ Recently expanding into fullstack development, connecting low-level thinking wit
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-## Journey
-
-| 2020 | Started programming with C# |
-
-| 2020 – 2022 | Explored Lua scripting in Roblox Studio |
-
-| 2022 | Continued building with C# |
-
-| Late 2023 | Picked up C — lower-level programming |
-
-| Late 2024 | Jumped into web dev — HTML, CSS, JS, PHP |
-
-| 2025 | Learning C++ basics · Fullstack with Node.js & MySQL |
-
 
 ---
 
